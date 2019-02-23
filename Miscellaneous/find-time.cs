@@ -1,6 +1,6 @@
 /*
 A list of 6 numbers is sent, then it's needed to check what's the best way to reorder them to form the smallest possible and valid time in the format hh:mm:ss, otherwise return an error message.
-As there was no performance requirement, permuting was the best idea I could come up with...
+As there was no performance requirement, permuting was the best (fastest to implement) idea I could come up with...
 */
 
 using System;
