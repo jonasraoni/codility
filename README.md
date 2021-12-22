@@ -191,4 +191,17 @@ These are my own implementations. As I enjoy small and concise codes, whatever d
         <td><a href="Lesson%2011%20-%20Sieve%20of%20Eratosthenes/CountSemiprimes.md">Problem Statement</a></td>
         <td><a href="Lesson%2011%20-%20Sieve%20of%20Eratosthenes/CountSemiprimes.cs">Solution</a></td>
     </tr>
+    <tr>
+        <td colspan="3"><h3>Others</h3></td>
+    </tr>
+    <tr>
+        <td>FindTime</td>
+        <td><a href="Miscellaneous/find-time.md">Problem Statement</a></td>
+        <td><a href="Miscellaneous/find-time.cs">Solution</a></td>
+    </tr>
+    <tr>
+        <td>SortingGroups</td>
+        <td><a href="Miscellaneous/sorting-groups.md">Problem Statement</a></td>
+        <td><a href="Miscellaneous/sorting-groups.cs">Solution</a></td>
+    </tr>
 </table>
